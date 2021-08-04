@@ -1,0 +1,16 @@
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\bin\Debug\net5.0\Super Awesome Brogram.exe
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\bin\Debug\net5.0\Super Awesome Brogram.deps.json
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\bin\Debug\net5.0\Super Awesome Brogram.runtimeconfig.json
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\bin\Debug\net5.0\Super Awesome Brogram.runtimeconfig.dev.json
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\bin\Debug\net5.0\Super Awesome Brogram.dll
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\bin\Debug\net5.0\ref\Super Awesome Brogram.dll
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\bin\Debug\net5.0\Super Awesome Brogram.pdb
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\Super Awesome Brogram.csproj.AssemblyReference.cache
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\Super Awesome Brogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\Super Awesome Brogram.AssemblyInfoInputs.cache
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\Super Awesome Brogram.AssemblyInfo.cs
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\Super Awesome Brogram.csproj.CoreCompileInputs.cache
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\Super Awesome Brogram.dll
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\ref\Super Awesome Brogram.dll
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\Super Awesome Brogram.pdb
+C:\Users\calvi_zlt7g90\Desktop\Super Awesome Brogram\obj\Debug\net5.0\Super Awesome Brogram.genruntimeconfig.cache
